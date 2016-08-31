@@ -1,6 +1,7 @@
 ---
 title: Contact
 menu: Contact
+cache_enable: false
 shown_in_footer: true
 background_image: img-page-title.jpg
 content:
@@ -47,6 +48,7 @@ form:
     buttons:
         - type: submit
           value: 'Send Message'
+          classes: 'btn btn-primary'
     process:
         - email:
             from: "{{ config.plugins.email.from }}"
