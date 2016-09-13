@@ -1,3 +1,10 @@
+# v1.0.2
+## 13/09/2016
+
+1. [](#improved)
+    * Fixed mobile navigation
+    * Fixed form not working
+
 # v1.0.1
 ## 31/08/2016
 
