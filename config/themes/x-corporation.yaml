@@ -1,5 +1,4 @@
 enabled: true
-logo: logo.png
 footer_icons:
   -
     icon: fa-facebook
@@ -27,4 +26,3 @@ footer_blocks:
     content: "Call Us 666 777 888 OR 111 222 333\r\n\r\nSend an Email on <a href=\"mailto:#\">contact@domain.com</a>\r\n\r\nVisit Us 123 Fake Street- Blla 12358\r\nFake Kingdom"
     logo: false
 copyright: 'Copyright &copy; 2016 | X-Corporation Designed And Developed By: <a href="http://www.uicookies.com">uiCookies</a>'
-google_maps_api_key: AIzaSyDbmnZP5BTkpv5blTprRtUvS99zbvyoSAQ

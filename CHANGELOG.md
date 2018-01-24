@@ -1,3 +1,9 @@
+# v1.2.0
+## 24/01/2018
+
+1. [](#improved)
+    * Updated X-Corporation theme to 1.2.0
+
 # v1.1.0
 ## 30/01/2017
 
