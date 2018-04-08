@@ -4,7 +4,11 @@
 
 X-Corporation theme is a port of [X-Corporation](https://uicookies.com/demo/#x_corporation) by [uiCookies](https://uicookies.com/).
 
-# Features
+## Demo
+
+A demo of this skeleton is available at [grav-theme-x-corporation.flatfiledeveloper.com](https://grav-theme-x-corporation.flatfiledeveloper.com/)
+
+## Features
 
 * Professional user interface
 * Responsive and mobile friendly
@@ -17,15 +21,15 @@ X-Corporation theme is a port of [X-Corporation](https://uicookies.com/demo/#x_c
 * Sleek interaction and smooth scrolling
 * Usage Of Latest Technology: HTML5, CSS3, JavaScript, Bootstrap 3 framework, Font Awesome, retina ready
 
-# Installation
+## Installation
 
-## New Grav site
+### New Grav site
 
 1. Download the latest release in this repository.
 2. Unzip the package into your web root folder.
 3. Access your site via web browser.
 
-## Existing Grav site
+### Existing Grav site
 
 You can just  install [X-Corporation theme](https://github.com/tranduyhung/grav-theme-x-corporation), but page content will need to reference the X-Corporation theme's supported templates. It is strongly advised to at least install the X-Corporation skeleton package to see the theme's capabilities in action.
 
