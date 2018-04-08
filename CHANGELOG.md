@@ -1,3 +1,11 @@
+# v1.2.3
+## 04/08/2018
+
+1. [](#bugfix)
+    * Updated X-Corporation theme to 1.2.3
+    * Fixed form not loading
+    * Changed recipient's email in form config
+
 # v1.2.0
 ## 24/01/2018
 
