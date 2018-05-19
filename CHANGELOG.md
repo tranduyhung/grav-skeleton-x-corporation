@@ -1,3 +1,10 @@
+# v1.3.0
+## 05/19/2018
+
+1. [](#bugfix)
+    * Updated X-Corporation theme to 1.3.0
+    * Updated Clients modular page
+
 # v1.2.3
 ## 04/08/2018
 
